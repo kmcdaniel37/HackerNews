@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj": {}
+  },
+  "projects": {
+    "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj",
+        "projectName": "HackerNews.Common",
+        "projectPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj",
+        "packagesPath": "C:\\Users\\kmcdaniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kmcdaniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.applicantinsight.net/NuGet/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

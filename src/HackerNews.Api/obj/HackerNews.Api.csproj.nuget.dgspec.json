@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sandbox\\HackerNews\\src\\HackerNews.Api\\HackerNews.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Sandbox\\HackerNews\\src\\HackerNews.Api\\HackerNews.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Api\\HackerNews.Api.csproj",
+        "projectName": "HackerNews.Api",
+        "projectPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Api\\HackerNews.Api.csproj",
+        "packagesPath": "C:\\Users\\kmcdaniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kmcdaniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj": {
+                "projectPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj"
+              },
+              "C:\\Sandbox\\HackerNews\\src\\HackerNews.Data\\HackerNews.Data.csproj": {
+                "projectPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Data\\HackerNews.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj",
+        "projectName": "HackerNews.Common",
+        "projectPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\HackerNews.Common.csproj",
+        "packagesPath": "C:\\Users\\kmcdaniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kmcdaniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.applicantinsight.net/NuGet/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Sandbox\\HackerNews\\src\\HackerNews.Data\\HackerNews.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Data\\HackerNews.Data.csproj",
+        "projectName": "HackerNews.Data",
+        "projectPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Data\\HackerNews.Data.csproj",
+        "packagesPath": "C:\\Users\\kmcdaniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Sandbox\\HackerNews\\src\\HackerNews.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kmcdaniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.applicantinsight.net/NuGet/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

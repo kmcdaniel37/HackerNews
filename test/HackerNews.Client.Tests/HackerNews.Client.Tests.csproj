@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\src\HackerNews.Client\HackerNews.Client.csproj" />
+      <ProjectReference Include="..\..\src\HackerNews.Common\HackerNews.Common.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentAssertions" Version="5.9.0" />
+      <PackageReference Include="Moq" Version="4.13.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+      <PackageReference Include="xunit.extensibility.core" Version="2.4.0" />
+    </ItemGroup>
+
+</Project>

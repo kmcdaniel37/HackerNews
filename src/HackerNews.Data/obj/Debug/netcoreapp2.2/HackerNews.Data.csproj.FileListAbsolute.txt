@@ -1,0 +1,9 @@
+C:\Sandbox\HackerNews\src\HackerNews.Data\bin\Debug\netcoreapp2.2\HackerNews.Data.deps.json
+C:\Sandbox\HackerNews\src\HackerNews.Data\bin\Debug\netcoreapp2.2\HackerNews.Data.dll
+C:\Sandbox\HackerNews\src\HackerNews.Data\bin\Debug\netcoreapp2.2\HackerNews.Data.pdb
+C:\Sandbox\HackerNews\src\HackerNews.Data\obj\Debug\netcoreapp2.2\HackerNews.Data.csprojAssemblyReference.cache
+C:\Sandbox\HackerNews\src\HackerNews.Data\obj\Debug\netcoreapp2.2\HackerNews.Data.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerNews\src\HackerNews.Data\obj\Debug\netcoreapp2.2\HackerNews.Data.AssemblyInfoInputs.cache
+C:\Sandbox\HackerNews\src\HackerNews.Data\obj\Debug\netcoreapp2.2\HackerNews.Data.AssemblyInfo.cs
+C:\Sandbox\HackerNews\src\HackerNews.Data\obj\Debug\netcoreapp2.2\HackerNews.Data.dll
+C:\Sandbox\HackerNews\src\HackerNews.Data\obj\Debug\netcoreapp2.2\HackerNews.Data.pdb
