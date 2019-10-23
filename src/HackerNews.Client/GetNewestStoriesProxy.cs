@@ -12,7 +12,7 @@ namespace HackerNews.Client
 
         public GetNewestStoriesProxy(string baseUri)
         {
-            _baseUri = $"{baseUri}/1.0/api/Stories";
+            _baseUri = $"{baseUri}/api/Stories";
         }
 
         public async Task<List<StoryDto>> GetAsync()

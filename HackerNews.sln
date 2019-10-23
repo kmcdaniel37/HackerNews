@@ -7,19 +7,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9D73DEBA-76A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{29C1577B-2DB3-43E9-A5F0-F8D4937A4F19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Api.Tests", "test\HackerNews.Api.Tests\HackerNews.Api.Tests.csproj", "{E26BC52D-3D82-48BD-9E81-501E34B88991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNews.Api.Tests", "test\HackerNews.Api.Tests\HackerNews.Api.Tests.csproj", "{E26BC52D-3D82-48BD-9E81-501E34B88991}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNews.Api", "src\HackerNews.Api\HackerNews.Api.csproj", "{F5924822-D504-43EA-85DA-5B5D7A998A42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Data.Tests", "test\HackerNews.Data.Tests\HackerNews.Data.Tests.csproj", "{6B5E7FE0-6DEF-49FD-98C8-85829DF90FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNews.Data.Tests", "test\HackerNews.Data.Tests\HackerNews.Data.Tests.csproj", "{6B5E7FE0-6DEF-49FD-98C8-85829DF90FB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Data", "src\HackerNews.Data\HackerNews.Data.csproj", "{657D3D43-930E-4F49-BB2E-EBB99445B1D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNews.Data", "src\HackerNews.Data\HackerNews.Data.csproj", "{657D3D43-930E-4F49-BB2E-EBB99445B1D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Common", "src\HackerNews.Common\HackerNews.Common.csproj", "{574C5B86-8E64-4688-ABEC-F8ABF1D7A80F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNews.Common", "src\HackerNews.Common\HackerNews.Common.csproj", "{574C5B86-8E64-4688-ABEC-F8ABF1D7A80F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Client.Tests", "test\HackerNews.Client.Tests\HackerNews.Client.Tests.csproj", "{F312B165-460F-4A97-BF81-CF9FD022FD3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNews.Client.Tests", "test\HackerNews.Client.Tests\HackerNews.Client.Tests.csproj", "{F312B165-460F-4A97-BF81-CF9FD022FD3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Client", "src\HackerNews.Client\HackerNews.Client.csproj", "{BC2DFFFF-81F8-43C8-8DC2-A3A62A0BB9D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNews.Client", "src\HackerNews.Client\HackerNews.Client.csproj", "{BC2DFFFF-81F8-43C8-8DC2-A3A62A0BB9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Web", "src\HackerNews.Web\HackerNews.Web.csproj", "{C8B7BFD0-ED2D-4FFA-9DEC-2B48B948E0DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{BC2DFFFF-81F8-43C8-8DC2-A3A62A0BB9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2DFFFF-81F8-43C8-8DC2-A3A62A0BB9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2DFFFF-81F8-43C8-8DC2-A3A62A0BB9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B7BFD0-ED2D-4FFA-9DEC-2B48B948E0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B7BFD0-ED2D-4FFA-9DEC-2B48B948E0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B7BFD0-ED2D-4FFA-9DEC-2B48B948E0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B7BFD0-ED2D-4FFA-9DEC-2B48B948E0DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{574C5B86-8E64-4688-ABEC-F8ABF1D7A80F} = {9D73DEBA-76A1-4E95-AF5C-17D6E52AA9E6}
 		{F312B165-460F-4A97-BF81-CF9FD022FD3E} = {29C1577B-2DB3-43E9-A5F0-F8D4937A4F19}
 		{BC2DFFFF-81F8-43C8-8DC2-A3A62A0BB9D9} = {9D73DEBA-76A1-4E95-AF5C-17D6E52AA9E6}
+		{C8B7BFD0-ED2D-4FFA-9DEC-2B48B948E0DE} = {9D73DEBA-76A1-4E95-AF5C-17D6E52AA9E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {27C7DEC9-9DF1-43CA-AD47-38C14146C2D8}

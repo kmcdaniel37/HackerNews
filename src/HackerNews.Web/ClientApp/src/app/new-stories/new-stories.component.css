@@ -1,0 +1,26 @@
+table {
+  width: 100%;
+}
+td,th {
+  width: 200px;
+  height:70px;
+  text-align:center;
+  vertical-align:middle;
+  color:#000;
+  font-size:14px;
+}
+th {
+  border-bottom:2px solid #9db6c4;
+  color:#9db6c4;
+  font-weight: bold;
+  font-size:16px;
+}
+.mat-row:nth-child(odd) {
+  background-color: #cccccc;
+}
+.mat-row:nth-child(even) {
+  background-color: #999999;
+}
+a {
+  color:#3333cc;
+}

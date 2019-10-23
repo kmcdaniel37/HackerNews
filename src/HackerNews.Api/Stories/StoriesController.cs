@@ -30,7 +30,7 @@ namespace HackerNews.Api.Stories
         public async Task<IActionResult> GetAsync()
         {
             const string cacheKey = "NewestStories";
-            IEnumerable<Items> stories = null;
+            IEnumerable<Items> stories;
 
             if (_memory.TryGetValue(cacheKey, out IEnumerable<Items> currentStories))
             {

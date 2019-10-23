@@ -1,0 +1,12 @@
+C:\Sandbox\HackerNews\src\HackerNews.Client\bin\Debug\netcoreapp2.2\HackerNews.Client.deps.json
+C:\Sandbox\HackerNews\src\HackerNews.Client\bin\Debug\netcoreapp2.2\HackerNews.Client.dll
+C:\Sandbox\HackerNews\src\HackerNews.Client\bin\Debug\netcoreapp2.2\HackerNews.Client.pdb
+C:\Sandbox\HackerNews\src\HackerNews.Client\bin\Debug\netcoreapp2.2\HackerNews.Common.dll
+C:\Sandbox\HackerNews\src\HackerNews.Client\bin\Debug\netcoreapp2.2\HackerNews.Common.pdb
+C:\Sandbox\HackerNews\src\HackerNews.Client\obj\Debug\netcoreapp2.2\HackerNews.Client.csprojAssemblyReference.cache
+C:\Sandbox\HackerNews\src\HackerNews.Client\obj\Debug\netcoreapp2.2\HackerNews.Client.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerNews\src\HackerNews.Client\obj\Debug\netcoreapp2.2\HackerNews.Client.AssemblyInfoInputs.cache
+C:\Sandbox\HackerNews\src\HackerNews.Client\obj\Debug\netcoreapp2.2\HackerNews.Client.AssemblyInfo.cs
+C:\Sandbox\HackerNews\src\HackerNews.Client\obj\Debug\netcoreapp2.2\HackerNews.Client.csproj.CopyComplete
+C:\Sandbox\HackerNews\src\HackerNews.Client\obj\Debug\netcoreapp2.2\HackerNews.Client.dll
+C:\Sandbox\HackerNews\src\HackerNews.Client\obj\Debug\netcoreapp2.2\HackerNews.Client.pdb
